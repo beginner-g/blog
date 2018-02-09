@@ -1,0 +1,12 @@
+.sports-career a{
+  display: block;
+  background-color: #fff;
+  padding: 20px 0;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 2px 4px 10px #000;
+  text-decoration: none;
+  color: #4DD0E1;
+  font-size: 18px;
+  font-weight: 700;
+}
